@@ -1,0 +1,1 @@
+﻿Remove-NetFirewallRule -DisplayName "Disable Port 3389"
